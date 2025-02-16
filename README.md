@@ -10,10 +10,10 @@ Welcome to **Globe Trekker**, a travel guide website designed to inspire and ass
 ## 📸 Screenshots
 
 ### 📱 Mobile View
-![Mobile View](path/to/mobile-view-image.png)
+![Mobile View](https://github.com/akashm01github/globe_trekker-/blob/main/Code/Images/iPhone-13-PRO-127.0.0.1%20(1).png)
 
 ### 💻 Desktop View
-![Desktop View](path/to/desktop-view-image.png)
+![Desktop View](https://github.com/akashm01github/globe_trekker-/blob/main/Code/Images/Macbook-Air-127.0.0.1%20(1).png)
 
 ## 📌 Features
 
